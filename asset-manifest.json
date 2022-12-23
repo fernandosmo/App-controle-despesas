@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/App-controle-despesas/static/css/main.79b7a009.chunk.css",
-    "main.js": "/App-controle-despesas/static/js/main.0a53f2b3.chunk.js",
-    "main.js.map": "/App-controle-despesas/static/js/main.0a53f2b3.chunk.js.map",
+    "main.js": "/App-controle-despesas/static/js/main.6a230827.chunk.js",
+    "main.js.map": "/App-controle-despesas/static/js/main.6a230827.chunk.js.map",
     "runtime-main.js": "/App-controle-despesas/static/js/runtime-main.c5b6a251.js",
     "runtime-main.js.map": "/App-controle-despesas/static/js/runtime-main.c5b6a251.js.map",
     "static/js/2.45767456.chunk.js": "/App-controle-despesas/static/js/2.45767456.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.c5b6a251.js",
     "static/js/2.45767456.chunk.js",
     "static/css/main.79b7a009.chunk.css",
-    "static/js/main.0a53f2b3.chunk.js"
+    "static/js/main.6a230827.chunk.js"
   ]
 }
